@@ -4,7 +4,7 @@ body {
 
 }
 body {
-    background-color:black;
+    background-image:url("5026621.jpg");
     
 }
 p {
@@ -17,23 +17,5 @@ h1 {
     text-align:center
 }
 img {
-  border-radius: 50%;
-}
-
-
-@media screen and (max-width: 600px) {
-  .topnav a:not(:first-child) {display: none;}
-  .topnav a.icon {
-    float: right;
-    display: block;
+    border-radius: 50%;
   }
-}
-
-@media screen and (max-width: 600px) {
-  .topnav.responsive {position: relative;}
-  .topnav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-}
