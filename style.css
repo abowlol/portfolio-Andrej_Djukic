@@ -16,8 +16,13 @@ h1 {
 h1 {
     text-align:center
 }
-.img-fluid{
+.container123{
     border-radius: 50%;
-    max-width: 100%;
-    max-height: auto;
+    
+  }
+  hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid white;
   }
